@@ -1,0 +1,23 @@
+Results for jonathanalignment.csv
+
+The top 500 results are displayed, clustering when the start of another result is within full characters
+Search window is adjusted by a factor of 2
+Tibetan phrases shorter than 20 are adjusted by 2.6
+Chinese embeddings come from chin_comb_new.p
+Tibetan from tib_comb_new.p
+The embeddings are NOT recentered
+The distance metric used is cosine
+
+The median clustered full Tibetan appears at rank 1.0, average is 2.42, with 1 phrases with no full results
+No partial Tibetan results
+The median predicted Global rank for the correct Tibetan is 42.5 of 2446 possibilities
+The average rank is 143.33
+Standard deviation is 239.86
+
+A total of 25 Chinese phrases were searched
+The full Tibetan was found in the top result 18 times.
+At least some Tibetan was found in the top result 18 times
+The full Tibetan was found in the top 5 results 9 times.
+At least some Tibetan was found in the top 5 results 9 times.
+The full Tibetan was found in any results 24 times.
+At least some of the Tibetan was found in 24 results.

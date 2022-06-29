@@ -1,0 +1,23 @@
+Results for Greg_MRK35_aligned-seg.csv
+
+The top 500 results are displayed, clustering when the start of another result is within full characters
+Search window is adjusted by a factor of 2
+Tibetan phrases shorter than 20 are adjusted by 2.6
+Chinese embeddings come from chin_comb_new.p
+Tibetan from tib_comb_new.p
+The embeddings are NOT recentered
+The distance metric used is cosine
+
+The median clustered full Tibetan appears at rank 7.0, average is 10.69, with 1 phrases with no full results
+No partial Tibetan results
+The median predicted Global rank for the correct Tibetan is 189 of 10885 possibilities
+The average rank is 896.94
+Standard deviation is 1511.70
+
+A total of 17 Chinese phrases were searched
+The full Tibetan was found in the top result 4 times.
+At least some Tibetan was found in the top result 4 times
+The full Tibetan was found in the top 5 results 12 times.
+At least some Tibetan was found in the top 5 results 12 times.
+The full Tibetan was found in any results 16 times.
+At least some of the Tibetan was found in 16 results.

@@ -1,0 +1,195 @@
+爾時長老須菩提告善德言
+དེ ནས ཚེ དང ལྡན་པ རབ་འབྱོར གྱིས ལྷ འི བུ དཔལ བཟངས ལ འདི སྐད ཅེས སྨྲས སོ ། །
+
+Actual Location of Correct Tibetan: 4843, Predicted Rank: 109 out of 10908;
+
+100.00% of Tibetan in Result #12
+
+Tibetan is 20.00 times longer, actual adjustment ratio was 2.4
+avg similarity score: 0.73
+std of similarity score: 0.03
+
+1: Optimal at 165, scored 0.80377, globally ranked at 1.
+འི བུ དཔལ བཟངས ཀྱང འཁོར དེ ཉིད དུ འདུས་པ ར གྱུར *** ཏེ འདུག གོ ། དེ ནས བཅོམ་ལྡན་འདས ཀྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ བཀའ སྩལ་པ ། འཇམ་དཔལ ང ས ཁྱོད ལ བསྐུལ གྱིས ། ཁྱོད ཀྱིས *** ཆོས དང ལྡན་པ འི གཏམ ལས བརྩམས ཏེ ། ལྷ འི འཁོར འདི དང
+All subsumed results scores: 153-179 ranked at 405; 154-180 ranked at 214; 155-181 ranked at 267; 156-182 ranked at 190; 157-183 ranked at 162; 158-184 ranked at 142; 159-185 ranked at 71; 160-186 ranked at 79; 161-187 ranked at 39; 162-188 ranked at 29; 163-189 ranked at 14; 164-190 ranked at 3; 165-191 ranked at 1; 166-192 ranked at 2; 167-193 ranked at 7; 168-194 ranked at 6; 169-195 ranked at 12; 170-196 ranked at 13; 171-197 ranked at 34; 172-198 ranked at 62; 173-199 ranked at 63; 174-200 ranked at 101; 175-201 ranked at 233; 176-202 ranked at 211; 177-203 ranked at 192; 178-204 ranked at 140; 179-205 ranked at 423
+
+
+2: Optimal at 5457, scored 0.80241, globally ranked at 4.
+དག གི དགེ་བ འི རྩ་བ རྣམ་པ ར སྤེལ་བ འི ཕྱི ར *** འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས བཀའ སྩལ ཏོ ། ། འཇམ་དཔལ ང ས ཁྱོད ལ བསྐུལ གྱིས ཁྱོད ཀྱིས འཁོར འདི དག ལ *** རང གི རྫུ་འཕྲུལ གྱི སྟོབས དང ཆོ་འཕྲུལ
+All subsumed results scores: 5446-5472 ranked at 475; 5447-5473 ranked at 448; 5448-5474 ranked at 273; 5449-5475 ranked at 278; 5450-5476 ranked at 223; 5451-5477 ranked at 198; 5452-5478 ranked at 69; 5453-5479 ranked at 42; 5454-5480 ranked at 32; 5455-5481 ranked at 18; 5456-5482 ranked at 5; 5457-5483 ranked at 4; 5458-5484 ranked at 33; 5459-5485 ranked at 118; 5460-5486 ranked at 90; 5461-5487 ranked at 87; 5462-5488 ranked at 119; 5463-5489 ranked at 176; 5464-5490 ranked at 271
+
+
+3: Optimal at 4407, scored 0.80009, globally ranked at 8.
+གྲངས སུ གཏོགས་པ ར རིག་པ *** ར བྱའོ ། ། དེ ནས ལྷ འི བུ དཔལ བཟངས ཀྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ ཁྱོད *** རྒྱུན ཏུ འཛམ་བུ འི གླིང ན ཆོས་སྟོན ཏམ ། ། དེ ར དགའ་ལྡན
+All subsumed results scores: 4402-4428 ranked at 325; 4403-4429 ranked at 301; 4404-4430 ranked at 259; 4405-4431 ranked at 160; 4406-4432 ranked at 48; 4407-4433 ranked at 8; 4408-4434 ranked at 10; 4409-4435 ranked at 17; 4410-4436 ranked at 23; 4411-4437 ranked at 43; 4412-4438 ranked at 55; 4413-4439 ranked at 77; 4414-4440 ranked at 80; 4415-4441 ranked at 36; 4416-4442 ranked at 53; 4417-4443 ranked at 51; 4418-4444 ranked at 93; 4419-4445 ranked at 164; 4420-4446 ranked at 266
+
+
+4: Optimal at 9619, scored 0.79952, globally ranked at 9.
+བརྒྱ མི སྐྱེ་བ འི ཆོས ལ བཟོད་པ སྐྱེས སོ *** ། ། དེ ནས ལྷ འི བུ དཔལ བཟངས ཀྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ བདག གིས འཇིག་རྟེན *** གྱི ཁམས ཡོན་ཏན ཐམས་ཅད ཀྱི འོད ཅེས བགྱི་བ ཞིག ཐོས ན འཇམ་དཔལ འཇིག་རྟེན གྱི ཁམས ཡོན་ཏན
+All subsumed results scores: 9610-9636 ranked at 497; 9611-9637 ranked at 334; 9612-9638 ranked at 197; 9613-9639 ranked at 153; 9614-9640 ranked at 104; 9615-9641 ranked at 75; 9616-9642 ranked at 26; 9617-9643 ranked at 16; 9618-9644 ranked at 11; 9619-9645 ranked at 9; 9620-9646 ranked at 20; 9621-9647 ranked at 41; 9622-9648 ranked at 40; 9623-9649 ranked at 100; 9624-9650 ranked at 126; 9625-9651 ranked at 132; 9626-9652 ranked at 130; 9627-9653 ranked at 148; 9628-9654 ranked at 177; 9629-9655 ranked at 114; 9630-9656 ranked at 206; 9631-9657 ranked at 260; 9632-9658 ranked at 224; 9633-9659 ranked at 219; 9634-9660 ranked at 284; 9635-9661 ranked at 337
+
+
+5: Optimal at 6809, scored 0.79796, globally ranked at 15.
+དུ གོ་སྐབས ཡངས་པ ར གནས་པ ར *** གྱུར ཏོ ། ། དེ ནས ལྷ འི བུ དཔལ བཟངས ཀྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ ལྷ *** འི འཁོར ཆེན་པོ འདི འདུས ལགས ན ཆོས ཀྱི བཀའ་མཆིད ལས བརྩམས ཏེ སྤོབས་པ ར མཛད དུ གསོལ ། དེ སྐད ཅེས སྨྲས་པ
+All subsumed results scores: 6803-6829 ranked at 474; 6804-6830 ranked at 253; 6805-6831 ranked at 189; 6806-6832 ranked at 175; 6807-6833 ranked at 112; 6808-6834 ranked at 28; 6809-6835 ranked at 15; 6810-6836 ranked at 21; 6811-6837 ranked at 35; 6812-6838 ranked at 45; 6813-6839 ranked at 37; 6814-6840 ranked at 44; 6815-6841 ranked at 64; 6816-6842 ranked at 65; 6817-6843 ranked at 58; 6818-6844 ranked at 117; 6819-6845 ranked at 113; 6820-6846 ranked at 226; 6821-6847 ranked at 243; 6822-6848 ranked at 372; 6832-6858 ranked at 493
+
+
+6: Optimal at 4947, scored 0.79745, globally ranked at 19.
+གྱི བྱིན གྱིས བརླབས ཀྱི སྟོབས *** སོ ། ། དེ ནས བཅོམ་ལྡན་འདས ལ ལྷ འི བུ དཔལ བཟངས ཀྱིས འདི སྐད ཅེས གསོལ ཏོ ། ། བཅོམ་ལྡན་འདས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ འི *** རྫུ་འཕྲུལ རྣམ་པར འཕྲུལ་བ འི སྟོབས དང །
+All subsumed results scores: 4941-4967 ranked at 347; 4942-4968 ranked at 231; 4943-4969 ranked at 88; 4944-4970 ranked at 25; 4945-4971 ranked at 24; 4946-4972 ranked at 22; 4947-4973 ranked at 19; 4948-4974 ranked at 27; 4949-4975 ranked at 57; 4950-4976 ranked at 124; 4951-4977 ranked at 150; 4952-4978 ranked at 252; 4953-4979 ranked at 385; 4954-4980 ranked at 373
+
+
+7: Optimal at 10789, scored 0.79582, globally ranked at 30.
+གནས་པ ར མི འགྱུར རོ *** ། ། ཞེས བརྗོད་པ ར བྱའོ ། ། དེ ནས བཅོམ་ལྡན་འདས ཀྱིས ཚེ དང ལྡན་པ ཀུན་དགའ་བོ ལ བཀའ སྩལ་པ ། ཀུན་དགའ་བོ ཁྱོད ཀྱིས ཆོས ཀྱི རྣམ་གྲངས *** འདི ཟུང ཤིག ། ཆོངས ཤིག ། ལྷོགས ཤིག ། ཀུན་ཆུབ་པ ར
+All subsumed results scores: 10784-10810 ranked at 439; 10785-10811 ranked at 188; 10786-10812 ranked at 127; 10787-10813 ranked at 120; 10788-10814 ranked at 78; 10789-10815 ranked at 30; 10790-10816 ranked at 31; 10791-10817 ranked at 56; 10792-10818 ranked at 52; 10793-10819 ranked at 49; 10794-10820 ranked at 95; 10795-10821 ranked at 106; 10796-10822 ranked at 105; 10797-10823 ranked at 123; 10798-10824 ranked at 141; 10799-10825 ranked at 183; 10800-10826 ranked at 345; 10801-10827 ranked at 450
+
+
+8: Optimal at 2014, scored 0.79447, globally ranked at 38.
+གསོལ་པ ། བཅོམ་ལྡན འདས གལ ཏེ བཅོམ་ལྡན་འདས ཀྱིས བརྙེས ན བདག གིས ཀྱང རྙེད ལགས *** སོ ། ། དེ ནས ཚེ དང ལྡན་པ རབ་འབྱོར གྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ དེ་བཞིན་གཤེགས་པ ས སངས་རྒྱས *** ཀྱི ཡུལ མ བརྙེས སམ ། སྨྲས་པ ། གན ས བརྟན གྱིས ཉན་ཐོས ཀྱི ཡུལ གང
+All subsumed results scores: 1999-2025 ranked at 395; 2000-2026 ranked at 335; 2001-2027 ranked at 434; 2005-2031 ranked at 487; 2006-2032 ranked at 482; 2007-2033 ranked at 305; 2008-2034 ranked at 240; 2009-2035 ranked at 209; 2010-2036 ranked at 202; 2011-2037 ranked at 122; 2012-2038 ranked at 92; 2013-2039 ranked at 54; 2014-2040 ranked at 38; 2015-2041 ranked at 61; 2016-2042 ranked at 85; 2017-2043 ranked at 86; 2018-2044 ranked at 138; 2019-2045 ranked at 248; 2020-2046 ranked at 277; 2021-2047 ranked at 89; 2022-2048 ranked at 83; 2023-2049 ranked at 46; 2024-2050 ranked at 47; 2025-2051 ranked at 107; 2026-2052 ranked at 255; 2027-2053 ranked at 213; 2028-2054 ranked at 235; 2029-2055 ranked at 251; 2030-2056 ranked at 315
+
+
+9: Optimal at 6250, scored 0.79365, globally ranked at 50.
+སེམས བསྐྱེད་པ ར གྱུར ཏོ ། ། དེ *** ནས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ས རྫུ་འཕྲུལ བསྡུས ནས ལྷ འི བུ དཔལ བཟངས ལ འདི སྐད ཅེས སྨྲས སོ ། ། ལྷ འི བུ ཁྱོད *** དགའ་ལྡན གྱི གནས སུ སོང ལ དགའ་ལྡན གྱི
+All subsumed results scores: 6242-6268 ranked at 366; 6243-6269 ranked at 169; 6244-6270 ranked at 125; 6245-6271 ranked at 76; 6246-6272 ranked at 60; 6247-6273 ranked at 73; 6248-6274 ranked at 116; 6249-6275 ranked at 91; 6250-6276 ranked at 50; 6251-6277 ranked at 66; 6252-6278 ranked at 156; 6253-6279 ranked at 446; 6254-6280 ranked at 400; 6255-6281 ranked at 310; 6256-6282 ranked at 352; 6257-6283 ranked at 393; 6258-6284 ranked at 394
+
+
+10: Optimal at 4278, scored 0.79293, globally ranked at 59.
+རིག་པ ར བྱའོ ། ། དེ ནས བཅོམ་ལྡན་འདས ཀྱིས དགེ་སློང དེ དག ལ ལེགས *** སོ ཞེས བྱ་བ བྱིན ཏེ ། གནས བརྟན རབ་འབྱོར ལ བཀའ སྩལ་པ ། ། རབ་འབྱོར དགེ་སློང འདི དག གིས དེ་བཞིན་གཤེགས་པ འོད་སྲུང གི གསུང་རབ ལ འཇམ་དཔལ གཞོན་ནུ *** ར གྱུར་པ ཉིད ལས ཟབ་མོ འི ཆོས བསྟན་པ འདི ལྟ་བུ འདི
+All subsumed results scores: 4264-4290 ranked at 451; 4265-4291 ranked at 304; 4266-4292 ranked at 237; 4267-4293 ranked at 212; 4268-4294 ranked at 225; 4269-4295 ranked at 196; 4270-4296 ranked at 201; 4271-4297 ranked at 236; 4272-4298 ranked at 269; 4273-4299 ranked at 163; 4274-4300 ranked at 195; 4275-4301 ranked at 166; 4276-4302 ranked at 167; 4277-4303 ranked at 67; 4278-4304 ranked at 59; 4279-4305 ranked at 70; 4280-4306 ranked at 98; 4281-4307 ranked at 144; 4282-4308 ranked at 149; 4283-4309 ranked at 171; 4284-4310 ranked at 230; 4285-4311 ranked at 187; 4286-4312 ranked at 246; 4287-4313 ranked at 239; 4288-4314 ranked at 288; 4289-4315 ranked at 479
+
+
+11: Optimal at 5015, scored 0.79170, globally ranked at 68.
+ཡང མ གཡོས་པ ར འདི སྙམ *** དུ བདག་ཅག དགའ་ལྡན གྱི གནས སུ ཕྱིན ཏོ སྙམ་པ ནི ངོ མཚར ལགས སོ ། ། བཅོམ་ལྡན་འདས ཀྱིས བཀའ སྩལ་པ ། ལྷ འི བུ འཇམ་དཔལ གཞོན་ནུ *** ར གྱུར་པ འི རྫུ་འཕྲུལ རྣམ་པ ར འཕྲུལ་པ ཇི སྙེད ཅིག ང ས ཤེས་པ ལས ཁྱོད ཀྱིས
+All subsumed results scores: 5009-5035 ranked at 464; 5010-5036 ranked at 377; 5011-5037 ranked at 397; 5012-5038 ranked at 375; 5013-5039 ranked at 217; 5014-5040 ranked at 139; 5015-5041 ranked at 68; 5016-5042 ranked at 72; 5017-5043 ranked at 111; 5018-5044 ranked at 165; 5019-5045 ranked at 161; 5020-5046 ranked at 180; 5021-5047 ranked at 220; 5022-5048 ranked at 336; 5023-5049 ranked at 370; 5024-5050 ranked at 417; 5025-5051 ranked at 484; 5026-5052 ranked at 285; 5027-5053 ranked at 330; 5028-5054 ranked at 453; 5030-5056 ranked at 383; 5031-5057 ranked at 380
+
+
+12: Optimal at 4841, scored 0.79134, globally ranked at 74.
+སྦྱར ཏེ ། འདི དག སྣང་བ ངོ་མཚར ཏོ *** ། ། དེ ནས ཚེ དང ལྡན་པ རབ་འབྱོར གྱིས ལྷ འི བུ དཔལ བཟངས ལ འདི སྐད ཅེས སྨྲས སོ ། ། ལྷ འི བུ ཁྱོད *** ནི འཁོར གྱི དཀྱིལ་འཁོར འདི ནས གང དུ ཡང མ གཡོས ལ
+All subsumed results scores: 4833-4859 ranked at 306; 4834-4860 ranked at 136; 4835-4861 ranked at 134; 4836-4862 ranked at 135; 4837-4863 ranked at 147; 4838-4864 ranked at 143; 4839-4865 ranked at 108; 4840-4866 ranked at 102; 4841-4867 ranked at 74; 4842-4868 ranked at 94; 4843-4869 ranked at 110; 4844-4870 ranked at 131; 4845-4871 ranked at 276; 4846-4872 ranked at 287; 4847-4873 ranked at 168; 4848-4874 ranked at 200; 4849-4875 ranked at 312; 4850-4876 ranked at 391; 4851-4877 ranked at 346; 4852-4878 ranked at 357; 4853-4879 ranked at 494
+
+
+13: Optimal at 6299, scored 0.79092, globally ranked at 81.
+དེ ར འོང ངོ *** ། ། དེ ནས ལྷ འི བུ དཔལ བཟངས ཀྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ འི ལྟ ར མཉན ཏེ ། བཅོམ ལྡན འདས དང འཇམ་དཔལ གཞོན་ནུ *** ར གྱུར་པ དང བྱང་ཆུབ་སེམས དཔ འི དགེ་འདུན
+All subsumed results scores: 6295-6321 ranked at 418; 6296-6322 ranked at 323; 6297-6323 ranked at 374; 6298-6324 ranked at 208; 6299-6325 ranked at 81; 6300-6326 ranked at 129; 6301-6327 ranked at 170; 6302-6328 ranked at 247; 6303-6329 ranked at 295; 6304-6330 ranked at 319; 6305-6331 ranked at 320; 6306-6332 ranked at 444
+
+
+14: Optimal at 9205, scored 0.79083, globally ranked at 82.
+བྲལ་བ རྣམ་པ *** ར དག གོ ། ལྷ འི བུ དཔལ བཟངས ཀྱིས གཞན ཡང འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ བྱང་ཆུབ་སེམས་དཔའ *** ལམ ཇི ལྟ ར སྒོམ ། སྨྲས་པ ། ལྷ འི བུ བྱང་ཆུབ་སེམས་དཔའ ནི
+All subsumed results scores: 9203-9229 ranked at 466; 9204-9230 ranked at 193; 9205-9231 ranked at 82; 9206-9232 ranked at 103; 9207-9233 ranked at 96; 9208-9234 ranked at 99; 9209-9235 ranked at 151; 9210-9236 ranked at 263; 9211-9237 ranked at 210; 9212-9238 ranked at 145; 9213-9239 ranked at 173; 9214-9240 ranked at 262; 9215-9241 ranked at 322; 9216-9242 ranked at 215; 9217-9243 ranked at 152; 9218-9244 ranked at 257
+
+
+15: Optimal at 5701, scored 0.79070, globally ranked at 84.
+གྱིས ཆོ་འཕྲུལ དེ མཐོང སྟེ ། *** ངོ མཚར དུ གྱུར ནས ཐལ་མོ སྦྱར ཏེ འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ ཕྱག འཚལ ཞིང ཚིག འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ གཞོན་ནུ *** ར གྱུར་པ འི རྫུ་འཕྲུལ གྱི ཆོ་འཕྲུལ བསམ གྱིས མི ཁྱབ སྟེ ངོ་མཚར ཏོ ། །
+All subsumed results scores: 5695-5721 ranked at 496; 5696-5722 ranked at 358; 5697-5723 ranked at 341; 5698-5724 ranked at 324; 5699-5725 ranked at 302; 5700-5726 ranked at 172; 5701-5727 ranked at 84; 5702-5728 ranked at 97; 5703-5729 ranked at 159; 5704-5730 ranked at 158; 5705-5731 ranked at 137; 5706-5732 ranked at 174; 5707-5733 ranked at 186; 5708-5734 ranked at 155; 5709-5735 ranked at 154; 5710-5736 ranked at 258; 5713-5739 ranked at 419; 5714-5740 ranked at 410; 5715-5741 ranked at 411; 5716-5742 ranked at 489
+
+
+16: Optimal at 1983, scored 0.78920, globally ranked at 109.
+། གསོལ་པ ། བཅོམ་ལྡན་འདས བདག ནི སངས་རྒྱས ཀྱི ཡུལ མཉམ་པ ཉིད དང མི འགལ་བ དང *** ལྡན ལགས སོ ། བཀའ སྩལ་པ ། འཇམ་དཔལ ཁྱོད ཀྱིས སངས་རྒྱས ཀྱི ཡུལ རྙེད དམ ། གསོལ་པ ། བཅོམ་ལྡན འདས གལ ཏེ བཅོམ་ལྡན་འདས ཀྱིས བརྙེས ན *** བདག གིས ཀྱང རྙེད ལགས
+All subsumed results scores: 1968-1994 ranked at 452; 1979-2005 ranked at 382; 1980-2006 ranked at 218; 1981-2007 ranked at 199; 1982-2008 ranked at 146; 1983-2009 ranked at 109; 1984-2010 ranked at 121; 1985-2011 ranked at 115; 1986-2012 ranked at 128; 1987-2013 ranked at 234; 1988-2014 ranked at 399
+
+
+17: Optimal at 6844, scored 0.78776, globally ranked at 133.
+འཁོར ཆེན་པོ འདི འདུས ལགས ན ཆོས ཀྱི *** བཀའ་མཆིད ལས བརྩམས ཏེ སྤོབས་པ ར མཛད དུ གསོལ ། དེ སྐད ཅེས སྨྲས་པ དང ། འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ས ལྷ འི བུ དཔལ བཟངས *** དང ། ཐམས་ཅད དང ལྡན་པ འི འཁོར དེ ལ འདི སྐད ཅེས སྨྲས སོ ། །
+All subsumed results scores: 6836-6862 ranked at 286; 6837-6863 ranked at 367; 6838-6864 ranked at 412; 6839-6865 ranked at 441; 6840-6866 ranked at 349; 6841-6867 ranked at 432; 6842-6868 ranked at 299; 6843-6869 ranked at 241; 6844-6870 ranked at 133; 6845-6871 ranked at 232; 6846-6872 ranked at 178; 6847-6873 ranked at 245; 6848-6874 ranked at 344; 6849-6875 ranked at 472; 6850-6876 ranked at 455; 6851-6877 ranked at 360; 6852-6878 ranked at 311; 6854-6880 ranked at 483; 6855-6881 ranked at 333; 6856-6882 ranked at 328; 6857-6883 ranked at 296; 6859-6885 ranked at 355; 6860-6886 ranked at 354
+
+
+18: Optimal at 2314, scored 0.78672, globally ranked at 157.
+བྱང་ཆུབ ཏུ སེམས བསྐྱེད དོ *** ། ། ཡང ཚེ དང ལྡན་པ རབ་འབྱོར གྱིས འཇམ་དཔལ གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ ཁྱོད ཉན་ཐོས ཀྱི ཐེག་པ ས *** སེམས་ཅན འདུལ ན ། ཅི ཁྱོད ཉན་ཐོས ཀྱི
+All subsumed results scores: 2309-2335 ranked at 420; 2310-2336 ranked at 222; 2311-2337 ranked at 238; 2312-2338 ranked at 191; 2313-2339 ranked at 203; 2314-2340 ranked at 157; 2315-2341 ranked at 227; 2316-2342 ranked at 316; 2317-2343 ranked at 294; 2318-2344 ranked at 338; 2319-2345 ranked at 265; 2320-2346 ranked at 205; 2321-2347 ranked at 279; 2322-2348 ranked at 339
+
+
+19: Optimal at 10013, scored 0.78570, globally ranked at 179.
+སྣང་བ *** ཆེན་པོ ས ཁྱབ་བོ ། ། གསོལ་པ ། བཅོམ་ལྡན་འདས བདག་ཅག གིས འཇིག་རྟེན གྱི ཁམས མི་མཇེད དེ དང ། བཅོམ་ལྡན་འདས དེ་བཞིན་གཤེགས་པ ཤཱཀྱ་ཐུབ་པ དེ དང ། འཇམ་དཔལ གཞོན་ནུ ར *** གྱུར་པ བལྟ་བ ར བགྱིའོ ། ། དེ ནས བཅོམ་ལྡན་འདས དེ་བཞིན་གཤེགས་པ ཀུན ཏུ བཟང་པོ ས ཞབས ཀྱི
+All subsumed results scores: 10012-10038 ranked at 244; 10013-10039 ranked at 179; 10014-10040 ranked at 207; 10015-10041 ranked at 256; 10016-10042 ranked at 293; 10017-10043 ranked at 292; 10018-10044 ranked at 291; 10026-10052 ranked at 392; 10028-10054 ranked at 500; 10029-10055 ranked at 454
+
+
+20: Optimal at 4758, scored 0.78565, globally ranked at 181.
+མངོན་པ ར བྱས *** སོ ། ། མཐོང ནས ཀྱང ངོ་མཚར དུ གྱུར ཏེ ། འཇམ་དཔལ་གཞོན་ནུ ར གྱུར་པ ལ འདི སྐད ཅེས སྨྲས སོ ། ། འཇམ་དཔལ བདག་ཅག འདི ལྟ *** ར མྱུར དུ དགའ་ལྡན གྱི
+All subsumed results scores: 4755-4781 ranked at 386; 4756-4782 ranked at 289; 4757-4783 ranked at 194; 4758-4784 ranked at 181; 4759-4785 ranked at 229; 4760-4786 ranked at 340; 4761-4787 ranked at 440; 4762-4788 ranked at 351; 4763-4789 ranked at 460
+
+
+21: Optimal at 10838, scored 0.78563, globally ranked at 182.
+ཤིག ། གཞན དག ལ ཡང རྒྱ ཆེ ར རབ *** ཏུ སྟོན ཅིག ། བཅོམ་ལྡན་འདས ཀྱིས དེ སྐད ཅེས བཀའ སྩལ ནས ། ལྷ འི བུ དཔལ བཟངས དང ། ཚེ དང ལྡན་པ ཀུན་དགའ་བོ དང ། *** ཐམས་ཅད དང ལྡན་པ འི འཁོར དེ
+All subsumed results scores: 10828-10854 ranked at 477; 10829-10855 ranked at 488; 10830-10856 ranked at 389; 10831-10857 ranked at 462; 10832-10858 ranked at 415; 10833-10859 ranked at 309; 10834-10860 ranked at 362; 10835-10861 ranked at 290; 10836-10862 ranked at 184; 10837-10863 ranked at 204; 10838-10864 ranked at 182; 10839-10865 ranked at 268; 10840-10866 ranked at 281; 10841-10867 ranked at 228; 10842-10868 ranked at 283; 10843-10869 ranked at 407; 10844-10870 ranked at 430
+
+
+22: Optimal at 5392, scored 0.78558, globally ranked at 185.
+ནས *** འདུག སྟེ ། དེས བདག ཉིད དགེ་སློང གི གཟུགས སུ བྱིན གྱིས བརླབས ནས བཅོམ་ལྡན་འདས ལ འདི སྐད ཅེས གསོལ ཏོ ། ། བཅོམ་ལྡན་འདས འཇམ་དཔལ གཞོན་ནུ *** ར གྱུར་པ འི རྫུ་འཕྲུལ རྣམ་པར འཕྲུལ་པ འི ཆོ་འཕྲུལ དེ བདག གིས བལྟ་བ ར
+All subsumed results scores: 5391-5417 ranked at 321; 5392-5418 ranked at 185; 5393-5419 ranked at 249; 5394-5420 ranked at 261; 5395-5421 ranked at 313; 5396-5422 ranked at 308; 5397-5423 ranked at 388; 5398-5424 ranked at 422; 5402-5428 ranked at 478; 5403-5429 ranked at 413; 5404-5430 ranked at 414; 5405-5431 ranked at 429
+
+
+23: Optimal at 9860, scored 0.78450, globally ranked at 216.
+ཐལ་མོ སྦྱར *** ནས བཅོམ་ལྡན་འདས ལ ཞུས་པ ། བཅོམ ལྡན འདས འོད འདི ལྟ ར ཡོངས སུ དག་པ འདི གང ནས མཆིས ། བཅོམ་ལྡན་འདས དེ ས བཀའ སྩལ་པ ། *** རིགས ཀྱི བུ དག
+All subsumed results scores: 9858-9884 ranked at 404; 9859-9885 ranked at 270; 9860-9886 ranked at 216; 9861-9887 ranked at 242; 9862-9888 ranked at 368; 9863-9889 ranked at 264; 9864-9890 ranked at 471
+
+
+24: Optimal at 1311, scored 0.78429, globally ranked at 221.
+། གཏི མུག གི ཉོན མོངས་པ རྣམས ལས འབྱུང་བ ར *** གདགས ལགས སོ ། ། བཅོམ་ལྡན་འདས ཀྱིས བཀའ སྩལ་པ ། འཇམ དཔལ ཁྱོད ཀྱིས ཇི སྐད བསྟན་པ དེ དེ ལྟ ཡིན དུ ཟིན ན ། གང *** སུ དག སྟོང་པ་ཉིད ལ
+All subsumed results scores: 1301-1327 ranked at 499; 1307-1333 ranked at 470; 1308-1334 ranked at 457; 1309-1335 ranked at 409; 1310-1336 ranked at 250; 1311-1337 ranked at 221; 1312-1338 ranked at 272; 1313-1339 ranked at 307; 1314-1340 ranked at 384; 1315-1341 ranked at 428
+
+
+25: Optimal at 10167, scored 0.78288, globally ranked at 254.
+ས *** བཅོམ་ལྡན་འདས དེ ལ གསོལ པ ། བཅོམ་ལྡན་འདས བདག འཇིག་རྟེན གྱི ཁམས མི་མཇེད དེ ར མཆི་བ ར སྤྲོ ལགས སོ ། ། བཅོམ་ལྡན་འདས དེ ས བཀའ སྩལ་པ *** ། རིགས ཀྱི བུ ད དེ འི དུས ལ བབ་པ ར ཤེས ན སོང ཤིག ། དེ ནས བྱང་ཆུབ་སེམས་དཔའ སེམས་དཔའ ཆེན་པོ
+All subsumed results scores: 10166-10192 ranked at 398; 10167-10193 ranked at 254; 10168-10194 ranked at 297; 10169-10195 ranked at 282; 10170-10196 ranked at 329; 10171-10197 ranked at 356; 10172-10198 ranked at 331; 10173-10199 ranked at 364; 10183-10209 ranked at 485; 10184-10210 ranked at 442; 10185-10211 ranked at 369; 10186-10212 ranked at 298; 10187-10213 ranked at 300; 10188-10214 ranked at 332
+
+
+26: Optimal at 2498, scored 0.78195, globally ranked at 274.
+བྱ་བ འི རྒྱུན *** བཅད་པ ནི མ ཡིན ནོ ། ། སྨྲས་པ ། འཇམ དཔལ ཁྱོད ཇི ལྟ ར ཉན་ཐོས ཡིན ། སྨྲས་པ ། ཆོས་མ ཐོས་པ མཉན པ ། སེམས་ཅན *** ཐམས་ཅད ལ ཐོས་པ ར
+All subsumed results scores: 2495-2521 ranked at 443; 2496-2522 ranked at 431; 2497-2523 ranked at 343; 2498-2524 ranked at 274; 2499-2525 ranked at 433; 2500-2526 ranked at 469; 2501-2527 ranked at 426; 2502-2528 ranked at 416
+
+
+27: Optimal at 4031, scored 0.78192, globally ranked at 275.
+མེད དོ *** ཞེས འཛེར ཏོ ། ། དེ ནས ཚེ དང ལྡན་པ རབ་འབྱོར གྱིས དགེ་སློང དེ དག ལ འདི སྐད ཅེས སྨྲས སོ ། ། ཚེ དང ལྡན་པ *** དག གིས ཅི ཞིག ཐོབ ཅིང
+All subsumed results scores: 4029-4055 ranked at 436; 4030-4056 ranked at 350; 4031-4057 ranked at 275; 4032-4058 ranked at 303; 4033-4059 ranked at 353; 4034-4060 ranked at 449; 4035-4061 ranked at 396; 4036-4062 ranked at 492; 4037-4063 ranked at 495
+
+
+28: Optimal at 847, scored 0.78173, globally ranked at 280.
+ར སངས *** རྒྱས སོ ཞེས སྟོན ལགས སོ ། ། བཀའ སྩལ་པ ། འཇམ་དཔལ ཁྱོད ཀྱིས དེ་བཞིན་གཤེགས་པ མཉམ་པ་ཉིད དུ གང གིས གནས་པ ཤེས སམ ། གསོལ་པ ། བཅོམ་ལྡན་འདས *** བྱིས་པ སོ་སོ འི སྐྱེ་བོ རྣམས
+All subsumed results scores: 845-871 ranked at 490; 846-872 ranked at 381; 847-873 ranked at 280; 848-874 ranked at 327; 849-875 ranked at 390; 850-876 ranked at 473; 851-877 ranked at 326; 852-878 ranked at 387
+
+
+29: Optimal at 3229, scored 0.78050, globally ranked at 314.
+བྱས་པ འོ *** ། ། སྨྲས་པ ། འཇམ དཔལ འདི བྱང་ཆུབ་སེམས་དཔའ གང དག གི ཡུལ ཡིན ། སྨྲས པ ། བཙུན་པ རབ འབྱོར འདི ནི བྱང་ཆུབ་སེམས་དཔའ གང དག འཇིག་རྟེན *** ན ཡང
+All subsumed results scores: 3227-3253 ranked at 486; 3228-3254 ranked at 421; 3229-3255 ranked at 314; 3230-3256 ranked at 361; 3231-3257 ranked at 458
+
+
+30: Optimal at 1896, scored 0.78026, globally ranked at 317.
+*** ། གསོལ་པ ། ཆོས ཐམས་ཅད སྤྲུལ་པ ལྟ་བུ འོ ཞེས བཅོམ་ལྡན་འདས ཀྱིས མ བསྟན་པ ལགས སམ ། བཀའ སྩལ་པ ། འཇམ དཔལ དེ་ལྟ འོ ། ། གསོལ་པ *** ། བཅོམ་ལྡན་འདས ཆོས ཐམས་ཅད སྤྲུལ་པ འི རང་བཞིན གྱིས
+All subsumed results scores: 1897-1923 ranked at 318; 1898-1924 ranked at 379; 1899-1925 ranked at 447; 1902-1928 ranked at 467; 1904-1930 ranked at 480
+
+
+31: Optimal at 9672, scored 0.77975, globally ranked at 342.
+འོད དེ ཕྱོགས གང ན མཆིས ། དེ ན *** དེ་བཞིན་གཤེགས་པ འི མཚན ཇི སྐད ཅེས བགྱི་བ ཞིག ཆོས་སྟོན ། འཇམ་དཔལ གྱིས སྨྲས་པ ། ལྷ འི བུ སྟེང གི ཕྱོགས སུ སངས་རྒྱས ཀྱི ཞིང འདི ནས *** སངས་རྒྱས ཀྱི ཞིང གང་གཱ
+All subsumed results scores: 9663-9689 ranked at 408; 9664-9690 ranked at 481; 9668-9694 ranked at 463; 9669-9695 ranked at 459; 9671-9697 ranked at 435; 9672-9698 ranked at 342; 9673-9699 ranked at 348; 9674-9700 ranked at 359; 9675-9701 ranked at 401; 9676-9702 ranked at 365
+
+
+32: Optimal at 426, scored 0.77926, globally ranked at 363.
+། འདུ བྱེད་པ མེད་པ ནི ཡུལ *** ལོ ། ། གསོལ་པ ། བཅོམ་ལྡན འདས འདུས མ བགྱིས ཀྱི ཡུལ གང ལགས ། བཀའ སྩལ་པ ། འཇམ དཔལ སེམས མེད་པ ནི འདུས མ བྱས *** ཀྱི
+All subsumed results scores: 420-446 ranked at 427; 423-449 ranked at 456; 424-450 ranked at 378; 425-451 ranked at 376; 426-452 ranked at 363; 427-453 ranked at 465
+
+
+33: Optimal at 1803, scored 0.77902, globally ranked at 371.
+མ མཆིས *** ཏེ ། བཅོམ་ལྡན་འདས འཕགས་པ རྣམས ནི གྲངས མ མཆིས་པ ། གྲངས དང བྲལ་བ ལགས སོ ། ། བཀའ སྩལ་པ ། འཇམ་དཔལ ཅི ཁྱོད འཕགས་པ འི ཆོས *** དང ལྡན་པ
+All subsumed results scores: 1801-1827 ranked at 476; 1803-1829 ranked at 371; 1805-1831 ranked at 498
+
+
+34: Optimal at 77, scored 0.77842, globally ranked at 402.
+*** མདོ ། སངས རྒྱས དང བྱང་ཆུབ་སེམས་དཔའ ཐམས་ཅད ལ ཕྱག འཚལ ལོ ། ། འདི སྐད བདག གིས ཐོས་པ དུས གཅིག ན ། བཅོམ་ལྡན་འདས མཉན་ཡོད ན རྒྱལ་བུ *** རྒྱལ་བྱེད
+All subsumed results scores: 78-104 ranked at 437
+
+
+35: Optimal at 10102, scored 0.77840, globally ranked at 403.
+ར བྱས *** སོ ། ། དེ ནས བཅོམ་ལྡན་འདས དེ་བཞིན་གཤེགས་པ ཀུན ཏུ བཟང་པོ ས བྱང་ཆུབ་སེམས་དཔའ དེ དག ལ བཀའ སྩལ་པ ། རིགས ཀྱི བུ དག དེ ལྟ ར ཆོས *** ཀྱི
+All subsumed results scores: 10100-10126 ranked at 425; 10101-10127 ranked at 424; 10102-10128 ranked at 403; 10103-10129 ranked at 491
+
+
+36: Optimal at 10616, scored 0.77831, globally ranked at 406.
+*** ནས བཅོམ་ལྡན་འདས ཀྱི སྤྱན་སྔ ར ཐལ་མོ སྦྱར ཏེ བཅོམ་ལྡན་འདས ལ འདི སྐད ཅེས གསོལ ཏོ ། ། བཅོམ་ལྡན་འདས ལ བཅོམ་ལྡན་འདས དེ་བཞིན་གཤེགས་པ ཀུན ཏུ བཟང་པོ གནོད་པ ཆུང *** ངམ ། ཉམ
+All subsumed results scores: 10617-10643 ranked at 445; 10619-10645 ranked at 438
+
+
+37: Optimal at 511, scored 0.77699, globally ranked at 461.
+ཡུལ *** ནི སངས་རྒྱས ཀྱི ཡུལ ལགས སོ ། ། བཀའ སྩལ་པ ། འཇམ དཔལ སངས་རྒྱས ཀྱི ཡུལ གང དུ བཙལ་བ ར བྱ ། གསོལ་པ བཅོམ་ལྡན་འདས སངས་རྒྱས ཀྱི ***
+All subsumed results scores: 510-536 ranked at 468; 511-537 ranked at 461
+
