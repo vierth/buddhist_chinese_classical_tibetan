@@ -15,6 +15,9 @@ This the Chinese corpus used to training the embedding model for the Chinese Hyb
 ## wordpairs.txt
 This is the translation glossary used to project the embedding spaces together.
 
+## finalresults
+This folder contains the final results files that were used for our analysis in the article.
+
 ## Dependencies
 sklearn, scipy, pandas, matplotlib, seaborn, fasttext (and for the external code, tensorflow)
 
