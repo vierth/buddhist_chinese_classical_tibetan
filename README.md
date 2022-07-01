@@ -1,5 +1,5 @@
 # Code for "Crosslinguistic Semantic Textual Similarit of Buddhist Chinese and Classical Tibetan
-This set of scripts and materials creates an embedding space for Buddhist Chinese materials and projects these Chinese embeddings into the embeddings provided by Marieke. Work in progress, lots to come!
+This set of scripts and materials was used in the pilot project described in this publicatioin.
 
 ## embedding_pipeline.py
 This script contains most of the code needed to create the Chinese embeddings and to project the embeddings into a shared space.
